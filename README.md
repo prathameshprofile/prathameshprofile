@@ -1,4 +1,4 @@
-Hi, I'm Prathamesh Chinchamalatpure
+</> Hi, I'm Prathamesh Chinchamalatpure
 Automation Test Engineer | Java | Selenium | Python | PyTest | C# | Ranorex | Spring Boot | AWS | API Testing | Microservices | Cloud Testing
 Experienced Software QA Engineer with hands-on expertise in Automation Testing, Manual Testing, API Validation, Backend Testing, and Cloud-based Microservices across FinTech, HRMS, Automotive, and CAD domains. Skilled in designing scalable automation frameworks, validating distributed systems, and ensuring application reliability through end-to-end testing approaches.
 Passionate about backend engineering, automation framework development, cloud-native applications, and software quality assurance using modern testing methodologies and tools.
