@@ -5,15 +5,15 @@ Skilled in designing scalable automation frameworks, validating distributed syst
 Passionate about backend engineering, automation framework development, cloud-native applications, and software quality assurance using modern testing methodologies and tools.
 ________________________________________
 ## About Me
-•	Experienced in Automation Testing and Manual Testing across multiple enterprise-level applications
-•	Worked on FinTech, HRMS, Automotive, CAD, and Cloud-based platforms
-•	Hands-on experience in API Testing, Backend Validation, Database Testing, and Microservices Testing
-•	Strong understanding of SDLC, STLC, Agile methodologies, and defect lifecycle management
-•	Experience working in AWS and GCP cloud environments
-•	Skilled in building and maintaining automation frameworks using Selenium, PyTest, Ranorex, and TestNG
-•	Strong foundation in Linux system programming, networking, and backend technologies
-•	ISTQB Certified and AWS Certified Cloud Practitioner
-•	Interested in Software Testing, Backend Development, Cloud Engineering, and Automation Architecture
+- Experienced in Automation Testing and Manual Testing across multiple enterprise-level applications
+-	Worked on FinTech, HRMS, Automotive, CAD, and Cloud-based platforms
+-	Hands-on experience in API Testing, Backend Validation, Database Testing, and Microservices Testing
+-	Strong understanding of SDLC, STLC, Agile methodologies, and defect lifecycle management
+-	Experience working in AWS and GCP cloud environments
+-	Skilled in building and maintaining automation frameworks using Selenium, PyTest, Ranorex, and TestNG
+-	Strong foundation in Linux system programming, networking, and backend technologies
+-	ISTQB Certified and AWS Certified Cloud Practitioner
+-	Interested in Software Testing, Backend Development, Cloud Engineering, and Automation Architecture
 ________________________________________
 ## Technical Skills
 Programming Languages
