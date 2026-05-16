@@ -137,8 +137,8 @@ ________________________________________
 #### Technologies Used
 Bootstrap, Embedded Systems, IoT
 #### Highlights
-•	Developed a responsive web interface for remotely controlling electrical switching operations through mobile devices
-•	Implemented WiFi-enabled switching functionality for IoT-based automation
+-	Developed a responsive web interface for remotely controlling electrical switching operations through mobile devices
+-	Implemented WiFi-enabled switching functionality for IoT-based automation
 ________________________________________
 ### Linux System Programming & Networking Projects
 #### Implemented Projects
@@ -149,39 +149,39 @@ ________________________________________
 #### Skills Utilized
 Linux | C Programming | IPC | Networking | Socket Programming
 ________________________________________
-Educational Institute Web Application
-Technologies Used
+### Educational Institute Web Application
+#### Technologies Used
 Java, MVC Architecture
-Highlights
+#### Highlights
 •	Developed a web application for educational institute management
 •	Implemented student authentication and access to study materials and online practice tests
 •	Designed multiple interactive web pages following MVC architecture principles
 ________________________________________
-Research Publication
+### Research Publication
 Published research paper on:
 “Implementation of TAS in MIMO Using Software Defined Radio”
 Published in:
 ICCCE Conference — Springer Publication (2019)
 ________________________________________
-Certifications
-Cloud & DevOps
-•	AWS Certified Cloud Practitioner
-•	Cloud Computing — IIT Kharagpur (NPTEL)
-•	Cloud Native, Microservices, Containers, DevOps & Agile — IBM
-Testing
-•	ISTQB Certified Tester
-Programming & Development
-•	Java Programming for Beginners — IBM
-•	Object Oriented Programming in Java — IBM
-•	Python for Beginners
-•	Python for Web Developers — IBM
-Electronics & Hardware
-•	Hardware Modelling using Verilog — IIT Kharagpur
-•	Architectural Design of Digital Integrated Circuits — IIT Kharagpur
-Productivity
-•	Excel Skills for Business — Macquarie University
+## Certifications
+### Cloud & DevOps
+-	AWS Certified Cloud Practitioner
+-	Cloud Computing — IIT Kharagpur (NPTEL)
+-	Cloud Native, Microservices, Containers, DevOps & Agile — IBM
+### Testing
+-	ISTQB Certified Tester
+### Programming & Development
+-	Java Programming for Beginners — IBM
+-	Object Oriented Programming in Java — IBM
+-	Python for Beginners
+-	Python for Web Developers — IBM
+### Electronics & Hardware
+-	Hardware Modelling using Verilog — IIT Kharagpur
+-	Architectural Design of Digital Integrated Circuits — IIT Kharagpur
+### Productivity
+-	Excel Skills for Business — Macquarie University
 ________________________________________
-Career Objective
+## Career Objective
 Seeking opportunities as an Automation Test Engineer / SDET / QA Engineer where I can contribute strong expertise in Automation Testing, API Validation, Cloud-based Applications, and Backend Testing while continuously enhancing my technical and problem-solving capabilities in modern software engineering environments.
 
 [README.md](https://github.com/user-attachments/files/27856077/README.md)
