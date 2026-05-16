@@ -16,60 +16,60 @@ ________________________________________
 -	Interested in Software Testing, Backend Development, Cloud Engineering, and Automation Architecture
 ________________________________________
 ## Technical Skills
-Programming Languages
-•	Java
-•	Python
-•	C#
-•	C
-•	C++
-•	JavaScript
+###Programming Languages
+- Java
+-	Python
+-	C#
+-	C
+-	C++
+-	JavaScript
 ________________________________________
-## Testing Expertise
-•	Manual Testing
-•	Automation Testing
-•	Functional Testing
-•	Integration Testing
-•	Regression Testing
-•	System Testing
-•	API Testing
-•	Backend Testing
-•	Database Testing
-•	Exploratory Testing
-•	UI Testing
+### Testing Expertise
+-	Manual Testing
+-	Automation Testing
+-	Functional Testing
+-	Integration Testing
+-	Regression Testing
+-	System Testing
+-	API Testing
+-	Backend Testing
+-	Database Testing
+-	Exploratory Testing
+-	UI Testing
 ________________________________________
-## Automation & Testing Tools
-•	Selenium with Java
-•	TestNG
-•	PyTest
-•	Ranorex with C#
-•	POSTMAN
+### Automation & Testing Tools
+-	Selenium with Java
+-	TestNG
+-	PyTest
+-	Ranorex with C#
+-	POSTMAN
 ________________________________________
-## Backend & Frameworks
-•	Spring Boot
-•	REST APIs
-•	Microservices Architecture
+### Backend & Frameworks
+-	Spring Boot
+-	REST APIs
+-	Microservices Architecture
 ________________________________________
-## Databases
-•	MySQL
-•	Oracle
+### Databases
+-	MySQL
+-	Oracle
 ________________________________________
-## Cloud & DevOps
-•	AWS
-•	GCP
-•	Cloud-native Applications
+### Cloud & DevOps
+-	AWS
+-	GCP
+-	Cloud-native Applications
 ________________________________________
-## Operating Systems
-•	Windows
-•	Linux
+### Operating Systems
+-	Windows
+-	Linux
 ________________________________________
-## Version Control & Code Hosting
-•	Git
-•	GitHub
-•	GitLab
-•	BitBucket
+### Version Control & Code Hosting
+-	Git
+-	GitHub
+-	GitLab
+-	BitBucket
 ________________________________________
-## Project & Issue Management
-•	JIRA
+### Project & Issue Management
+-	JIRA
 ________________________________________
 Professional Experience & Projects
 Stripe Payment Integration System
