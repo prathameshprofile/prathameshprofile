@@ -132,21 +132,21 @@ Ranorex, C#
 #### Skills Utilized
 Ranorex with C# | Automation Testing | Performance Testing
 ________________________________________
-Personal Projects
-IoT Web-Controlled WiFi Switch
-Technologies Used
+## Personal Projects
+### IoT Web-Controlled WiFi Switch
+#### Technologies Used
 Bootstrap, Embedded Systems, IoT
-Highlights
+#### Highlights
 •	Developed a responsive web interface for remotely controlling electrical switching operations through mobile devices
 •	Implemented WiFi-enabled switching functionality for IoT-based automation
 ________________________________________
-Linux System Programming & Networking Projects
-Implemented Projects
-•	Custom implementation of Linux ls command with multiple options using C
-•	Full duplex chat messenger using FIFO IPC in Linux
-•	Full duplex chat messenger using Message Queue IPC in Linux
-•	TCP/IP Socket Programming-based chat messenger implementation
-Skills Utilized
+### Linux System Programming & Networking Projects
+#### Implemented Projects
+#### - Custom implementation of Linux ls command with multiple options using C
+#### - Full duplex chat messenger using FIFO IPC in Linux
+#### - Full duplex chat messenger using Message Queue IPC in Linux
+#### - TCP/IP Socket Programming-based chat messenger implementation
+#### Skills Utilized
 Linux | C Programming | IPC | Networking | Socket Programming
 ________________________________________
 Educational Institute Web Application
