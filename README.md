@@ -71,65 +71,65 @@ ________________________________________
 ### Project & Issue Management
 -	JIRA
 ________________________________________
-Professional Experience & Projects
-Stripe Payment Integration System
-Tech Stack
+## Professional Experience & Projects
+### Stripe Payment Integration System
+#### Tech Stack
 Java, Spring Boot, AWS, Microservices, Stripe API, ActiveMQ, MySQL
-Key Contributions
-•	Worked within a microservices-based architecture deployed on AWS, validating inter-service communication and cloud integrations
-•	Designed and executed test scenarios for payment workflows including transaction failures, retries, timeout handling, and edge cases
-•	Validated Stripe PSP API integrations, request/response payloads, error handling, and transaction state mapping
-•	Performed backend database validation using MySQL queries
-•	Tested asynchronous messaging workflows using ActiveMQ
-•	Conducted exploratory testing and collaborated closely with developers for API and functional validations
-Skills Utilized
+#### Key Contributions
+-	Worked within a microservices-based architecture deployed on AWS, validating inter-service communication and cloud integrations
+-	Designed and executed test scenarios for payment workflows including transaction failures, retries, timeout handling, and edge cases
+-	Validated Stripe PSP API integrations, request/response payloads, error handling, and transaction state mapping
+-	Performed backend database validation using MySQL queries
+-	Tested asynchronous messaging workflows using ActiveMQ
+-	Conducted exploratory testing and collaborated closely with developers for API and functional validations
+#### Skills Utilized
 Automation Testing | API Testing | Backend Testing | SQL Validation | Cloud Testing | Microservices Testing
 ________________________________________
-Employee Management System
-Tech Stack
+### Employee Management System
+#### Tech Stack
 Java, MySQL, Web Application
-Key Contributions
-•	Designed and maintained detailed test cases for employee onboarding, attendance, payroll, and leave management workflows
-•	Performed functional, integration, regression, and system testing
-•	Validated database synchronization between UI and backend systems using MySQL
-•	Tested role-based access controls and approval workflows
-•	Identified, documented, and tracked defects using structured defect management processes
-•	Coordinated with stakeholders and development teams to ensure application quality and requirement clarity
-Skills Utilized
+#### Key Contributions
+-	Designed and maintained detailed test cases for employee onboarding, attendance, payroll, and leave management workflows
+-	Performed functional, integration, regression, and system testing
+-	Validated database synchronization between UI and backend systems using MySQL
+-	Tested role-based access controls and approval workflows
+-	Identified, documented, and tracked defects using structured defect management processes
+-	Coordinated with stakeholders and development teams to ensure application quality and requirement clarity
+#### Skills Utilized
 Manual Testing | Functional Testing | Regression Testing | Database Testing | JIRA
 ________________________________________
-VIN Management System
-Tech Stack
+### VIN Management System
+#### Tech Stack
 Java, GCP, Cloud Deployment
-Key Contributions
-•	Contributed to backend module development for VIN-based instruction and subscription management
-•	Validated application workflows across multiple user subscription scenarios
-•	Performed manual testing to ensure accurate instruction delivery and access control
-•	Identified and resolved defects to improve application reliability and stability
-•	Collaborated on cloud deployment validation and end-to-end workflow understanding
-Skills Utilized
+#### Key Contributions
+-	Contributed to backend module development for VIN-based instruction and subscription management
+-	Validated application workflows across multiple user subscription scenarios
+-	Performed manual testing to ensure accurate instruction delivery and access control
+-	Identified and resolved defects to improve application reliability and stability
+-	Collaborated on cloud deployment validation and end-to-end workflow understanding
+#### Skills Utilized
 Java | Manual Testing | Cloud Testing | GCP | Backend Validation
 ________________________________________
-AutoCAD Automation Framework
-Tech Stack
-Python, PyTest, NovaWindowsDriver, C#
-Key Contributions
-•	Performed manual validation testing on AutoCAD drawing workflows
-•	Evaluated and finalized automation testing approaches for desktop application testing
-•	Prepared automation feasibility and implementation documentation
-•	Implemented automation test scripts for UI validation and workflow verification
-Skills Utilized
+### AutoCAD Automation Framework
+#### Tech Stack
+Python, PyTest, NovaWindowsDriver
+#### Key Contributions
+-	Performed manual validation testing on AutoCAD drawing workflows
+-	Evaluated and finalized automation testing approaches for desktop application testing
+-	Prepared automation feasibility and implementation documentation
+-	Implemented automation test scripts for UI validation and workflow verification
+#### Skills Utilized
 PyTest | Python Automation | Desktop Application Testing | UI Automation
 ________________________________________
-Civil3D Automation & Performance Testing
-Tech Stack
+### Civil3D Automation & Performance Testing
+#### Tech Stack
 Ranorex, C#
-Key Contributions
-•	Performed manual and automation testing on Civil3D workflows
-•	Implemented performance and workflow validation approaches using Ranorex
-•	Evaluated automation feasibility and prepared implementation reports
-•	Collaborated on improving testing efficiency for CAD-based applications
-Skills Utilized
+#### Key Contributions
+-	Performed manual and automation testing on Civil3D workflows
+-	Implemented performance and workflow validation approaches using Ranorex
+-	Evaluated automation feasibility and prepared implementation reports
+-	Collaborated on improving testing efficiency for CAD-based applications
+#### Skills Utilized
 Ranorex with C# | Automation Testing | Performance Testing
 ________________________________________
 Personal Projects
