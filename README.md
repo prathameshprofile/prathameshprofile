@@ -4,7 +4,7 @@ Experienced Software QA Engineer with hands-on expertise in Automation Testing, 
 Skilled in designing scalable automation frameworks, validating distributed systems, and ensuring application reliability through end-to-end testing approaches.
 Passionate about backend engineering, automation framework development, cloud-native applications, and software quality assurance using modern testing methodologies and tools.
 ________________________________________
-About Me
+## About Me
 •	Experienced in Automation Testing and Manual Testing across multiple enterprise-level applications
 •	Worked on FinTech, HRMS, Automotive, CAD, and Cloud-based platforms
 •	Hands-on experience in API Testing, Backend Validation, Database Testing, and Microservices Testing
@@ -15,7 +15,7 @@ About Me
 •	ISTQB Certified and AWS Certified Cloud Practitioner
 •	Interested in Software Testing, Backend Development, Cloud Engineering, and Automation Architecture
 ________________________________________
-Technical Skills
+## Technical Skills
 Programming Languages
 •	Java
 •	Python
@@ -24,7 +24,7 @@ Programming Languages
 •	C++
 •	JavaScript
 ________________________________________
-Testing Expertise
+## Testing Expertise
 •	Manual Testing
 •	Automation Testing
 •	Functional Testing
@@ -37,38 +37,38 @@ Testing Expertise
 •	Exploratory Testing
 •	UI Testing
 ________________________________________
-Automation & Testing Tools
+## Automation & Testing Tools
 •	Selenium with Java
 •	TestNG
 •	PyTest
 •	Ranorex with C#
 •	POSTMAN
 ________________________________________
-Backend & Frameworks
+## Backend & Frameworks
 •	Spring Boot
 •	REST APIs
 •	Microservices Architecture
 ________________________________________
-Databases
+## Databases
 •	MySQL
 •	Oracle
 ________________________________________
-Cloud & DevOps
+## Cloud & DevOps
 •	AWS
 •	GCP
 •	Cloud-native Applications
 ________________________________________
-Operating Systems
+## Operating Systems
 •	Windows
 •	Linux
 ________________________________________
-Version Control & Code Hosting
+## Version Control & Code Hosting
 •	Git
 •	GitHub
 •	GitLab
 •	BitBucket
 ________________________________________
-Project & Issue Management
+## Project & Issue Management
 •	JIRA
 ________________________________________
 Professional Experience & Projects
