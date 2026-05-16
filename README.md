@@ -16,7 +16,7 @@ ________________________________________
 -	Interested in Software Testing, Backend Development, Cloud Engineering, and Automation Architecture
 ________________________________________
 ## Technical Skills
-###Programming Languages
+### Programming Languages
 - Java
 -	Python
 -	C#
